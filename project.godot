@@ -16,3 +16,4 @@ _global_script_class_icons={
 [application]
 
 config/name="Game With No Name"
+run/main_scene="res://World.tscn"
